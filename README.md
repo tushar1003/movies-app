@@ -2,7 +2,17 @@
 ![image](https://user-images.githubusercontent.com/91830386/177102805-b226c6b5-7573-428c-aa6b-e144e65ba858.png)
 # Movies Section
 ![image](https://user-images.githubusercontent.com/91830386/177102903-c737bb94-1486-47d7-a5fa-70ba7bfacbab.png)
+# Series Section
+![image](https://user-images.githubusercontent.com/91830386/177115013-21281aa6-ad3f-4586-8991-afd3d0582d60.png)
+# Search Section
+![image](https://user-images.githubusercontent.com/91830386/177116096-7e1f05e7-6b12-477c-a1f7-5d5cc19f48c3.png)
 
+
+# Technologies Used
+. React-Router-Dom
+. Material Ui
+. Axios
+. React Features
 
 # Getting Started with Create React App
 
