@@ -1,3 +1,9 @@
+# OVERVIEW
+![image](https://user-images.githubusercontent.com/91830386/177102805-b226c6b5-7573-428c-aa6b-e144e65ba858.png)
+# Movies Section
+![image](https://user-images.githubusercontent.com/91830386/177102903-c737bb94-1486-47d7-a5fa-70ba7bfacbab.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
