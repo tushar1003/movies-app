@@ -9,10 +9,10 @@
 
 
 # Technologies Used
-. React-Router-Dom
-. Material Ui
-. Axios
-. React Features
+=> React-Router-Dom
+=> Material Ui
+=> Axios
+=> React Features
 
 # Getting Started with Create React App
 
